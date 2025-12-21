@@ -1,6 +1,6 @@
 # Hi, I'm Caio Rossini
 
-**Python Backend Developer | APIs | Automation | Web Scraping**
+**Python Backend Developer | APIs | Data Engineering | Automation | Web Scraping**
 
 I’m a backend-focused developer building practical solutions using Python, FastAPI, PostgreSQL, and automation tools.  
 Currently developing real-world projects as part of my personal intensive bootcamp, with a strong focus on clean, readable code and practical problem-solving.
